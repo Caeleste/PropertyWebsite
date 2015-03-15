@@ -1,0 +1,11 @@
+{
+  "name": "CaelestePortal",
+  "description": "new website for Caeleste Group",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./app.js",
+  "dependencies": {
+    "express": "4.x",
+    "swig": "1.4.x"
+  }
+}
